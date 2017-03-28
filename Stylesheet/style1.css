@@ -1,0 +1,15 @@
+body {
+  background-color: black;
+}
+
+h1 {
+  color : white;
+  margin-left: 20px;
+}
+
+p {
+ background-color: #FFFF33;
+ color: #333300;
+ text-align: left;
+ border: 3px groove #FFFF33;
+}
